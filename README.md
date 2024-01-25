@@ -1,6 +1,8 @@
 # Elf Game v1.0
  Simulation of a board game I created over christmas 2023
  All done in python. Sheets using HTML and CSS.
+#### Python packages used
+pandas, matplotpy, statistics, math, random, inspect
 
 ## About the game
 The game is simple where you roll dice to collect wood however the weather will stop you depending on dice rolls as well.
